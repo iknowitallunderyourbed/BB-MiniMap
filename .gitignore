@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+# local settings and logs
+bb_map_viewer.json
+bb_map_viewer_error.log
+# never commit game data or the Atlas map pack
+assets.atlaslite
+*.atlaslite
